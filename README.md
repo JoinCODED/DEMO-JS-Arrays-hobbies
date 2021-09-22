@@ -1,10 +1,15 @@
-# DEMO-NAME
+# Arrays
 
-This is the template for demos. These repos are the starging points and instructions for short live-coding sessions where the instructor will demonstrate a specific concept.
 
 ## What is this demo?
-
-Explain what this demo is? Is it an incrementer? Is it a wand shop? Is it a text editor?  
+- Arrays
+- Index
+- push
+- pop
+- length
+- indexOf
+- slice
+- Emptying an array
 
 ## What are the objectives?
 
